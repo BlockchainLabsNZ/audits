@@ -8,6 +8,7 @@ If you have a project that you need audited, or have any questions about our aud
 
 | Project                                             | Delivery Date                                                                                             |
 | ----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| [BraveNewCoin](bravenewcoin.com)                    | [2019-09-13](https://github.com/BlockchainLabsNZ/brave-new-coin-token)                                    |
 | [Beam](https://www.beam-mw.com/)                    | [2018-08-12](https://github.com/BlockchainLabsNZ/beam-contracts-audit)                                    |
 | [ODX](https://odx.network/)                         | [2018-08-07](https://github.com/BlockchainLabsNZ/odx-contracts-audit)                                     |
 | [TravelBlock](https://www.travelblock.io/)          | [2018-07-17](https://github.com/BlockchainLabsNZ/travelblock-contracts-audit)                             |
